@@ -2,6 +2,10 @@
 ## Overview
 This project is a modern AI-powered chatbot interface built using HTML, CSS, and JavaScript. It integrates the Gemini AI API to generate responses dynamically and provides an interactive user experience with features like emoji support, file uploads, and responsive design.
 
+## 🚀 Live Demo
+**https://ai-chatbot-ebon.vercel.app/**
+
+---
 
 ## Features
 - **Dynamic Chat Interface**: Users can send messages and receive AI-generated responses.
